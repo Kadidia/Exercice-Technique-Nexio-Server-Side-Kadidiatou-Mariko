@@ -1,4 +1,4 @@
-# Exercice-Technique-Server-Side-Kadidiatou-Mariko
+# Exercice-Technique-Nexio-Server-Side-Kadidiatou-Mariko
 
 Pour pouvoir exécuter la solution :
 
