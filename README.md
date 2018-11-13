@@ -2,8 +2,8 @@
  Ce readme concerne l'installation complète de la solution : 
  serveur side (Java Spring Boot) et client side (React/Redux)
  
-   Ici c'est le package client et ci-dessous un lien d'accès au package serveur :
-   https://github.com/Kadidia/Exercice-Technique-Nexio-Server-Side-Kadidiatou-Mariko
+   Ici c'est le package serveur et ci-dessous un lien d'accès au package client :
+   https://github.com/Kadidia/Excercice-Technique-Nexio-Client-Side-Kadidiatou-Mariko
  
 
 Pour pouvoir exécuter la solution :
